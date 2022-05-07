@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\controllers\HomeController.class
+com\example\demo\models\User.class
+com\example\demo\models\Ticket.class
